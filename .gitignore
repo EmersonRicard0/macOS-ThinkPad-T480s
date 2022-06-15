@@ -1,7 +1,0 @@
-*.DS_Store
-*.swp
-EFI/CLOVER/config.plist*
-*.o
-tools/src/confgen.exe
-tools/src/confgen
-tools/src/confgen-linux
